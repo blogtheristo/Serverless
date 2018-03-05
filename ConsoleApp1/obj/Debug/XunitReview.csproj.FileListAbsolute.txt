@@ -1,0 +1,15 @@
+C:\Users\Oppilas\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\XunitReview.csprojResolveAssemblyReference.cache
+C:\Users\Oppilas\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\XunitReview.csproj.CoreCompileInputs.cache
+C:\Users\Oppilas\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Oppilas\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Oppilas\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Oppilas\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\xunit.abstractions.dll
+C:\Users\Oppilas\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\xunit.assert.dll
+C:\Users\Oppilas\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\xunit.core.dll
+C:\Users\Oppilas\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Oppilas\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\xunit.abstractions.xml
+C:\Users\Oppilas\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\xunit.assert.xml
+C:\Users\Oppilas\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\xunit.core.xml
+C:\Users\Oppilas\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Oppilas\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Oppilas\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
